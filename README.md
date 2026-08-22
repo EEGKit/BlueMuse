@@ -150,7 +150,7 @@ certificate/sideload steps entirely. This section will be updated if a store lin
 
 # Versions
 ### Latest
-* 3.1.0 (stable) - Modernized & Athena Support
+* 3.1.0 (stable) - Modernized & Athena Support.
 	* Muse S Athena support (experimental, not verified).
 	* Modernized to .NET 10 / WinUI 3, converted to SDK-style project.
 	* Merged the separate "LSL Bridge" Win32 process directly into the main app (single-process architecture, see [Architecture](https://github.com/kowalej/BlueMuse#architecture)).
@@ -162,7 +162,7 @@ certificate/sideload steps entirely. This section will be updated if a store lin
 * 2.4.0.0 (stable) - Last classic LSLBridge version (UWP).
 	* Misc package updates.
 		* Support Windows 11.
-		* Last release built on UWP before the .NET 10 / WinUI 3 modernization (see 2.5.0.0 above).
+		* Last release built on UWP before the .NET 10 / WinUI 3 modernization (see 3.1.0 above).
 
 See [CHANGELOG.md](./CHANGELOG.md) for the full version history.
 
